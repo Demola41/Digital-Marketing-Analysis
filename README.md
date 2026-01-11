@@ -1,5 +1,5 @@
 # Digital Marketing Performance & ROI Analysis
-<a href="https://github.com/Demola41/Digital-Marketing-Analysis/blob/main/Digital%20Marketing%20Analysis%20pg%201.png">][Dashboard Preview]</a>
+<a href="https://github.com/Demola41/Digital-Marketing-Analysis/blob/main/Digital%20Marketing%20Analysis%20pg%201.png">[Dashboard Preview]</a>
 ## 1. Situation
 Analyzed marketing campaign data with a total budget of **$30.59M** across various channels to evaluate spending efficiency and customer acquisition effectiveness.
 ## 2. Task
